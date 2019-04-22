@@ -1,2 +1,2 @@
 # ajax-pokedex
-http://127.0.0.1:5500/ajax.html
+https://ambroosjaime.github.io/ajax-pokedex/
